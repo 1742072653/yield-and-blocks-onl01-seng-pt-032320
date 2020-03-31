@@ -12,6 +12,3 @@ def hello_t(array)
 end
 
 
-array.each do |num|
-  num + 2
-  
